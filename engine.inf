@@ -1,0 +1,5 @@
+raw-file=engine.raw
+resolution=149x208x110
+sample-type=unsigned char
+#endian=
+ratio=1:1:1
