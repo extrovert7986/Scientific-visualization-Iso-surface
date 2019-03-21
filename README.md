@@ -7,7 +7,6 @@ This program implement 2 methods: marching cube and marching tetrahedra respecti
 #Scientific visualization
 
 #OpenGL
-
 #C/C++
 
 demo video:
